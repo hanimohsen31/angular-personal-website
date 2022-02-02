@@ -1,0 +1,4 @@
+.PortfolioCard img {
+    max-height: 230px;
+    object-fit: cover;
+}

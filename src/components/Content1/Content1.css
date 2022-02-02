@@ -17,7 +17,8 @@
   align-items: center;
 }
 .Content1 .col2 img {
-  width: fit-content;
+  /* 610*457 */
+  width: 610px;
   height: 80%;
   object-fit: cover;
   box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);

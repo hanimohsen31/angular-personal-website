@@ -1,21 +1,20 @@
 import "./PortfolioCard.css";
-import PortCardImg from "./../../static/img/s2.jpg";
-
-export const PortfolioCard = () => {
+export const PortfolioCard = (props) => {
   return (
     <>
     <div className="PortfolioCard">
 
       <div class="col">
         <div class="card">
-          <img src={PortCardImg} class="card-img-top" alt="..." />
+          <img src={props.img} class="card-img-top" alt="..." />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
+            <h5 class="card-title">{props.title}</h5>
+            {/* <p class="card-text">
               This is a longer card with supporting text below as a natural
               lead-in to additional content. This content is a little bit
               longer.
-            </p>
+            </p> */}
+            <a className="btn btn-outline-success my-4" href={props.link}>View On Behance</a>
           </div>
         </div>
       </div>

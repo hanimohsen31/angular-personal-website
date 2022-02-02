@@ -1,0 +1,18 @@
+.Services{
+    text-align: center;
+    margin: 90px auto;
+}
+.Services h1 {
+    font-weight: 300;
+}
+
+.ServicesDes{
+    margin: 25px auto;
+    max-width: 60%;
+    font-size: larger;
+}
+
+.ServicesDes a {
+    text-decoration: none;
+    font-weight: 400;
+}

@@ -3,9 +3,9 @@ import "./Navbar.css"
 
 export const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark ">
+        <nav className="navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
-                <NavLink className="navbar-brand" to="/">Hani Mohsen</NavLink>
+                <NavLink className="navbar-brand" to="/">Collection</NavLink>
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>

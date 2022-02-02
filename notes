@@ -14,3 +14,6 @@ $container-max-widths: (
   xl: 1140px,
   xxl: 1320px
 );
+
+
+<a className="nav-link" href="index.html#home">Home</a>

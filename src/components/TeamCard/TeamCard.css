@@ -3,13 +3,13 @@
     text-align: center;
 }
 .TeamCard img{
-    width: 150px;
+    /* width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 50%; */
     margin: auto;
 }
 
 .TeamCard p{
-    width: 80%;
+    /* width: 80%; */
     margin: auto;
 }

@@ -1,0 +1,14 @@
+.ServicesCard .card {
+    border: 0 !important;
+    text-align: left;
+}
+.ServicesCard img {
+    max-height: 230px;
+    object-fit: cover;
+}
+
+.ServicesCard p {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}

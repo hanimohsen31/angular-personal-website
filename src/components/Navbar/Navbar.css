@@ -1,5 +1,6 @@
 nav{
     /* background-color: black; */
+    width: 100%;
     position: absolute;
     top: 0;
 }
@@ -7,12 +8,21 @@ nav{
 .navbar {
     position: absolute;
     z-index: 10;
+    height: fit-content;
 }
 
 .nav-link:hover{
-    font-weight: bold;
+    /* font-weight: bold; */
+    color: #19c8fa;
+    border-bottom: 3px solid #19c8fa;
+    z-index: 1;
+    margin-bottom: -3px;
 }
 
-.nav-link::after{
-    font-weight: bold;
+.nav-link{
+    margin: auto 10px;
+}
+
+#navbarSupportedContent{
+    justify-self: right;
 }

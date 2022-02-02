@@ -1,0 +1,18 @@
+.Footer{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; */
+}
+
+.Footer a {
+    font-size: 20px;
+    color: #aaa;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.Footer h6 {
+    margin: 5px;
+}
