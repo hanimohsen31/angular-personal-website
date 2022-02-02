@@ -1,15 +1,26 @@
 {
-  "name": "mywebsite",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
-    "web-vitals": "^2.1.4"
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@trendyol-js/react-carousel": "^2.0.0",
+    "axios": "^0.23.0",
+    "babel-plugin-macros": "^3.1.0",
+    "cors": "^2.8.5",
+    "react": "17.0.1",
+    "react-dark-mode-toggle": "^0.2.0",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.3.1",
+    "react-popupbox": "^2.0.8",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "simple-react-lightbox": "^3.6.9-0",
+    "swiper": "^7.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,8 +30,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
