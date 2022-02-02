@@ -1,0 +1,5 @@
+.OverlapCard{
+    border-radius: 2px ;
+    /* box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit; */
+    box-shadow: 0px 0px 2px 0.1px #777;
+}

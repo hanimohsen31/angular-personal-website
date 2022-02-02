@@ -1,3 +1,18 @@
-/* nav{
-    background-color: blue;
-} */
+nav{
+    /* background-color: black; */
+    position: absolute;
+    top: 0;
+}
+
+.navbar {
+    position: absolute;
+    z-index: 10;
+}
+
+.nav-link:hover{
+    font-weight: bold;
+}
+
+.nav-link::after{
+    font-weight: bold;
+}

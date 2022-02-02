@@ -1,0 +1,18 @@
+.Team{
+    text-align: center;
+}
+
+.Team .row {
+    justify-content: center;
+    margin: 50px auto;
+}
+
+.Team h1 {
+    font-weight: 300;
+}
+
+.TeamDesc{
+    margin: 25px auto;
+    max-width: 60%;
+    font-size: larger;
+}

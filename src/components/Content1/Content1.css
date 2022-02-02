@@ -1,0 +1,97 @@
+.Content1 .row {
+    margin: 10px;
+}
+
+.Content1 .col1 {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 90px;
+  box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+  margin-left: 30px;
+}
+.Content1 .col2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Content1 .col2 img {
+  width: fit-content;
+  height: 80%;
+  object-fit: cover;
+  box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+}
+
+.Content1 span {
+  font-style: italic;
+}
+
+.Content1 .content1pre p {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.Content1 .content1pre p span {
+  font-weight: 200;
+  font-weight: bold;
+}
+
+
+/* xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px,
+xxl: 1400px */
+
+
+/* On screens that are 1200px or less, set the following */
+@media screen and (max-width: 1200px) {
+  .Content1 .col1 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+    margin-left: auto;
+  }
+
+  .Content1 .col2 img {
+    width: 100%;
+    /* margin-top: -110px; */
+    margin-right: 55px;
+  }
+}
+
+/* On screens that are 992px or less, set the following */
+@media screen and (max-width: 992px) {
+    .Content1 .col1 {
+      text-align: center;
+      padding: 20px;
+      box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+      margin-left: auto;
+    }
+  
+    .Content1 .col2 img {
+      width: 100%;
+      margin-top: -110px;
+      margin-right: auto;
+    }
+  }
+
+
+/* On screens that are 768px or less, set the following */
+@media screen and (max-width: 768px) {
+    .Content1 .col1 {
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+        margin-left: auto;
+      }
+    
+      .Content1 .col2 img {
+        width: 100%;
+        margin-top: -80px;
+        margin-right: auto;
+      }
+  }
+  

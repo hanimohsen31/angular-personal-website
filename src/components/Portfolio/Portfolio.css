@@ -1,0 +1,17 @@
+.Portfolio{
+    text-align: center;
+    margin: 90px auto;
+}
+.Portfolio h1 {
+    font-weight: 300;
+}
+
+.PortfolioDes{
+    margin: 25px auto;
+    max-width: 60%;
+    font-size: larger;
+}
+
+.PortfolioBtn{
+    margin: 30px auto;
+}

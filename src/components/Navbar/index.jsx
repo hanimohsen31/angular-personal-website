@@ -16,27 +16,19 @@ export const Navbar = () => {
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 " style={{ alignItems: 'center' }}>
 
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/homein">Home</NavLink>
+                            <NavLink className="nav-link" to="/home">Home</NavLink>
                         </li>
 
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/tvshows">TV Shows</NavLink>
+                            <NavLink className="nav-link" to="/portofolio">Portofolio</NavLink>
                         </li>
 
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/movies">Movies</NavLink>
+                            <NavLink className="nav-link" to="/aboutus">About Us</NavLink>
                         </li>
 
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/mylist">My List</NavLink>
-                        </li>
-
-                        <li className="nav-item">
-                            <NavLink className="nav-link" to="/terms">Terms</NavLink>
-                        </li>
-
-                        <li className="nav-item">
-                            <NavLink className="nav-link" to="/about">About</NavLink>
+                            <NavLink className="nav-link" to="/contacts">Contacts</NavLink>
                         </li>
 
                     </ul>
