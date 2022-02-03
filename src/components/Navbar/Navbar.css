@@ -26,3 +26,7 @@ nav{
 #navbarSupportedContent{
     justify-self: right;
 }
+
+.navbar-toggler{
+    margin: 0;
+}
