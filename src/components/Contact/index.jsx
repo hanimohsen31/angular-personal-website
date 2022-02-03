@@ -2,7 +2,7 @@ import "./Contact.css";
 export const Contact = () => {
   return (
     <>
-    <div className="Contact container col-6">
+    <div className="Contact container col-11 col-md-8 col-lg-6">
     <form>
 
         <div class="mb-3">
@@ -13,7 +13,7 @@ export const Contact = () => {
 
         <div class="mb-3">
             <label for="username" class="form-label" >Full Name</label>
-            <input type="text" class="form-control" id="username" required/>
+            <input type="email" class="form-control" id="username" required/>
         </div>
 
         <div class="mb-3">
