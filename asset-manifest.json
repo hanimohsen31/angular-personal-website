@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.e4d26e9c.chunk.css",
+    "main.js": "/Personal-Website/static/js/main.38667253.chunk.js",
+    "main.js.map": "/Personal-Website/static/js/main.38667253.chunk.js.map",
+    "runtime-main.js": "/Personal-Website/static/js/runtime-main.21b6097c.js",
+    "runtime-main.js.map": "/Personal-Website/static/js/runtime-main.21b6097c.js.map",
+    "static/js/2.eb0e4967.chunk.js": "/Personal-Website/static/js/2.eb0e4967.chunk.js",
+    "static/js/2.eb0e4967.chunk.js.map": "/Personal-Website/static/js/2.eb0e4967.chunk.js.map",
+    "index.html": "/Personal-Website/index.html",
+    "static/css/main.e4d26e9c.chunk.css.map": "/Personal-Website/static/css/main.e4d26e9c.chunk.css.map",
+    "static/js/2.eb0e4967.chunk.js.LICENSE.txt": "/Personal-Website/static/js/2.eb0e4967.chunk.js.LICENSE.txt",
+    "static/media/arabic.e138601f.jpg": "/Personal-Website/static/media/arabic.e138601f.jpg",
+    "static/media/bath.237b686d.jpg": "/Personal-Website/static/media/bath.237b686d.jpg",
+    "static/media/dres.a649befd.jpg": "/Personal-Website/static/media/dres.a649befd.jpg",
+    "static/media/g.325fcacc.jpg": "/Personal-Website/static/media/g.325fcacc.jpg",
+    "static/media/hani.e354f039.jpg": "/Personal-Website/static/media/hani.e354f039.jpg",
+    "static/media/khaled.41063cad.jpg": "/Personal-Website/static/media/khaled.41063cad.jpg",
+    "static/media/kid1.a3e51dfe.jpg": "/Personal-Website/static/media/kid1.a3e51dfe.jpg",
+    "static/media/lec.f9040b34.jpg": "/Personal-Website/static/media/lec.f9040b34.jpg",
+    "static/media/lux1.050d89ae.jpg": "/Personal-Website/static/media/lux1.050d89ae.jpg",
+    "static/media/mosq1.267b92e8.jpg": "/Personal-Website/static/media/mosq1.267b92e8.jpg",
+    "static/media/mosq2.da27f111.jpg": "/Personal-Website/static/media/mosq2.da27f111.jpg",
+    "static/media/rest1.5afc6f73.jpg": "/Personal-Website/static/media/rest1.5afc6f73.jpg",
+    "static/media/sofra.ad1fc955.jpg": "/Personal-Website/static/media/sofra.ad1fc955.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b6097c.js",
+    "static/js/2.eb0e4967.chunk.js",
+    "static/css/main.e4d26e9c.chunk.css",
+    "static/js/main.38667253.chunk.js"
+  ]
+}
