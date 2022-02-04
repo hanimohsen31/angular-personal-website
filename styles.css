@@ -1,0 +1,313 @@
+.Contact {
+  box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 30%);
+  margin: 30px auto 80px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.Content1 .row {
+  margin: 10px;
+}
+
+.Content1 .col1 {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 90px;
+  box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+  margin-left: 30px;
+}
+.Content1 .col2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Content1 .col2 img {
+  /* 610*457 */
+  width: 610px;
+  height: 80%;
+  object-fit: cover;
+  box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+}
+
+.Content1 span {
+  font-style: italic;
+}
+
+.Content1 .content1pre p {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.Content1 .content1pre p span {
+  font-weight: 200;
+  font-weight: bold;
+}
+
+/* xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px,
+xxl: 1400px */
+
+/* On screens that are 1200px or less, set the following */
+@media screen and (max-width: 1200px) {
+  .Content1 .col1 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+    margin-left: auto;
+  }
+
+  .Content1 .col2 img {
+    width: 100%;
+    /* margin-top: -110px; */
+    margin-right: 55px;
+  }
+}
+
+/* On screens that are 992px or less, set the following */
+@media screen and (max-width: 992px) {
+  .Content1 .col1 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+    margin-left: auto;
+  }
+
+  .Content1 .col2 img {
+    width: 100%;
+    margin-top: -110px;
+    margin-right: auto;
+  }
+}
+
+/* On screens that are 768px or less, set the following */
+@media screen and (max-width: 768px) {
+  .Content1 .col1 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 4px 10px 2px rgb(74 74 74 / 20%);
+    margin-left: auto;
+  }
+
+  .Content1 .col2 img {
+    width: 100%;
+    margin-top: -80px;
+    margin-right: auto;
+  }
+}
+
+.Footer a {
+  font-size: 20px;
+  color: #aaa;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.Footer h6 {
+  margin: 5px;
+}
+
+.Header {
+  position: relative;
+}
+
+.heroImgContain {
+  background-color: black;
+}
+
+.heroImg {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+  opacity: 0.7;
+}
+
+.heroContent {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+
+.heroText {
+  color: #fff;
+}
+
+h1 {
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 25px auto;
+}
+
+h6 {
+  margin: 20px auto;
+  font-weight: 200;
+}
+
+button {
+  margin-right: 20px;
+}
+
+/* xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px,
+xxl: 1400px */
+
+/* On screens that are 768px or less, set the following */
+@media screen and (max-width: 768px) {
+  .heroContent {
+    top: 45%;
+    left: 10%;
+  }
+}
+
+/* On screens that are 576px or less, set the following */
+@media screen and (max-width: 576px) {
+  .heroContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 30%;
+    left: 0;
+  }
+  .heroButtons {
+    display: flex;
+    flex-direction: column;
+  }
+  button {
+    margin: 10px auto;
+  }
+}
+
+nav {
+  /* background-color: black; */
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.navbar {
+  position: absolute;
+  z-index: 10;
+  height: fit-content;
+}
+
+.nav-link:hover {
+  /* font-weight: bold; */
+  color: #19c8fa;
+  border-bottom: 3px solid #19c8fa;
+  z-index: 1;
+  margin-bottom: -3px;
+}
+
+.nav-link {
+  margin: auto 10px;
+}
+
+#navbarSupportedContent {
+  justify-self: right;
+}
+
+.navbar-toggler {
+  margin: 0;
+}
+
+.Portfolio {
+  text-align: center;
+  margin: 90px auto;
+}
+.Portfolio h1 {
+  font-weight: 300;
+}
+
+.PortfolioDes {
+  margin: 25px auto;
+  max-width: 60%;
+  font-size: larger;
+}
+
+.PortfolioBtn {
+  margin: 30px auto;
+}
+
+.PortfolioCard img {
+  max-height: 230px;
+  object-fit: cover;
+}
+
+.Services {
+  text-align: center;
+  margin: 90px auto;
+}
+.Services h1 {
+  font-weight: 300;
+}
+
+.ServicesDes {
+  margin: 25px auto;
+  max-width: 60%;
+  font-size: larger;
+}
+
+.ServicesDes a {
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.ServicesCard .card {
+  border: 0 !important;
+  text-align: left;
+}
+.ServicesCard img {
+  max-height: 230px;
+  object-fit: cover;
+}
+
+.ServicesCard p {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.Team {
+  text-align: center;
+}
+
+.Team .row {
+  justify-content: center;
+  margin: 50px auto;
+}
+
+.Team h1 {
+  font-weight: 300;
+}
+
+.TeamDesc {
+  margin: 25px auto;
+  max-width: 80%;
+  font-size: larger;
+}
+
+.TeamCard .card {
+  border: 0 !important;
+  text-align: center;
+}
+.TeamCard img {
+  /* width: 150px;
+    height: 150px;
+    border-radius: 50%; */
+  margin: auto;
+}
+
+.TeamCard p {
+  /* width: 80%; */
+  margin: auto;
+}

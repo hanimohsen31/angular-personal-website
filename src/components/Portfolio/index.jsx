@@ -68,6 +68,7 @@ export const Portfolio = (props) => {
           />
         </div>
         <a
+          rel="noreferrer"
           href="https://www.behance.net/hanimohsen3810"
           target="_blank"
           className="PortfolioBtn btn btn-success"

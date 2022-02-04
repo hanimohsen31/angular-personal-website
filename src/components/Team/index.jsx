@@ -24,7 +24,7 @@ export const Team = (props) => {
             <TeamCard
               hani={props.khaled}
               title="Khaled Rashed"
-              job="Site Engineer"
+              job="Implementation Manager"
             />
           </div>
         </div>

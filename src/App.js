@@ -5,6 +5,8 @@ import { Footer } from "./components/Footer";
 import { Services } from "./components/Services";
 import { Header } from "./components/Header";
 import { Contact } from "./components/Contact";
+import { Counter } from "./components/Counter";
+import { ChatbotComp } from "./components/ChatbotComp";
 
 import im1 from "./static/img/arabic.jpg"
 import im2 from "./static/img/bath.jpg"
@@ -32,6 +34,8 @@ function App() {
         img7={im14} img8={im13} img9={im4}/>
       <Team hani={hani} khaled={khaled}/>
       <Contact/>
+      <ChatbotComp/>
+      <Counter/>
       <Footer />
       <br />
     </>

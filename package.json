@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^3.4.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
@@ -12,7 +13,9 @@
     "axios": "^0.23.0",
     "babel-plugin-macros": "^3.1.0",
     "cors": "^2.8.5",
+    "emailjs-com": "^3.2.0",
     "react": "17.0.1",
+    "react-chatbot-kit": "^2.0.1",
     "react-dark-mode-toggle": "^0.2.0",
     "react-dom": "17.0.1",
     "react-icons": "^4.3.1",
@@ -20,6 +23,7 @@
     "react-router-dom": "^5.3.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "4.0.3",
+    "react-simple-chatbot": "^0.6.1",
     "simple-react-lightbox": "^3.6.9-0",
     "swiper": "^7.3.1"
   },
