@@ -1,10 +1,15 @@
 import { NavLink } from "react-router-dom";
 import "./Navbar.css"
 
-export const Navbar = () => {
+export const Navbar = (props) => {
+
+    const propStyle = props.classAttr
+    const classAtrr="navbar navbar-expand-lg navbar-dark "
+    const classAll = classAtrr + propStyle
+
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark">
-            <div class="container-fluid">
+        <nav className={classAll}>
+            <div className="container-fluid">
                 <NavLink className="navbar-brand" to="/">Collection</NavLink>
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,7 +25,7 @@ export const Navbar = () => {
                         </li>
 
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/portofolio">Portofolio</NavLink>
+                            <NavLink className="nav-link" to="/portfolio">Portfolio</NavLink>
                         </li>
 
                         <li className="nav-item">

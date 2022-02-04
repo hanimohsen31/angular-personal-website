@@ -1,12 +1,7 @@
 import './Hero.css'
-// import heroImg from "./../../static/img/p4.jpg"
 
 export const Hero = (props) => {
-    // console.log("props Hero")
-    // console.log(props)
     const img = props.img
-    // console.log(img)
-
     return (
         <>
             <div className='hero'>
@@ -17,8 +12,8 @@ export const Hero = (props) => {
                         <h6>Start Making your dream come true today</h6>
                     </div>
                     <div className='heroButtons'>
-                        <a href='https://wa.me/201116886029' rel="noreferrer" target='_blank'>
-                            <button className='btn btn-danger rounded-pill'>Get Started Today</button>
+                        <a href='/portfolio' rel="noreferrer">
+                            <button className='btn btn-danger rounded-pill'>Show Portfolio</button>
                         </a>
                         <a href='https://wa.me/201116886029' rel="noreferrer" target='_blank'>
                             <button className='btn btn-outline-light rounded-pill' >Contact Us</button>

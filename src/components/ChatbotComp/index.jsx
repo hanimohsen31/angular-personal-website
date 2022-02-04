@@ -56,7 +56,7 @@ export const ChatbotComp = () => {
             {
               id: "8",
               message:
-                "We have prices starting from 70LE and pour rices are negotiable upon inspection, and there are also additional discounted offers if you will design and implement together.",
+                "We have prices starting from 70LE and pour prices are negotiable upon inspection, and there are also additional discounted offers if you will design and implement together.",
               trigger: "3",
             },
             {

@@ -1,6 +1,9 @@
 import "./ServicesCard.css";
 export const ServicesCard = (props) => {
+const showBot = () => {
+  document.querySelector('.rsc-float-button').click()
 
+}
   return (
     <>
     <div className="ServicesCard">
@@ -13,7 +16,7 @@ export const ServicesCard = (props) => {
             <p class="card-text">{props.desc}</p>
           </div>
 
-          <a href={props.contact} rel="noreferrer" className="PortfolioBtn btn btn-light " target='_blank'>More Info</a>
+          <button onClick={showBot} className="PortfolioBtn btn btn-light ">More Info</button>
         </div>
 
       </div>

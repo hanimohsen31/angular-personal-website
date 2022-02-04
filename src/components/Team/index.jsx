@@ -1,5 +1,7 @@
 import "./Team.css";
 import { TeamCard } from "../TeamCard";
+import hani from "../../static/img/hani.jpg";
+import khaled from "../../static/img/khaled.jpg";
 
 export const Team = (props) => {
   return (
@@ -15,14 +17,14 @@ export const Team = (props) => {
         <div class="row">
           <div className="col1 col-md-3 col-sm-12">
             <TeamCard
-              hani={props.hani}
+              hani={hani}
               title="Hani Mohsen"
               job="Interior Designer"
             />
           </div>
           <div className="col1 col-md-3 col-sm-12">
             <TeamCard
-              hani={props.khaled}
+              hani={khaled}
               title="Khaled Rashed"
               job="Implementation Manager"
             />

@@ -1,0 +1,59 @@
+{
+    "arabic":[
+        {"img":"./static/imgs/arabic1.jpg","title":"Arabic Majlis","des":""},
+        {"img":"./static/imgs/arabic2.jpg","title":"Arabic Majlis","des":""},
+        {"img":"./static/imgs/arabic3.jpg","title":"Arabic Majlis","des":""},
+        {"img":"./static/imgs/arabic4.jpg","title":"Arabic Majlis","des":""}
+    ],
+    "bath":[
+        {"img":"./static/imgs/bath.jpg","title":"Bathroom","des":""}
+
+    ],
+    "girl":[
+        {"img":"./static/imgs/girl1.jpg","title":"Girly Bedroom","des":""},
+        {"img":"./static/imgs/girl2.jpg","title":"Girly Bedroom","des":""},
+        {"img":"./static/imgs/girl3.jpg","title":"Girly Bedroom","des":""},
+        {"img":"./static/imgs/girl4.jpg","title":"Girly Bedroom","des":""}
+    ],
+    "kids":[
+        {"img":"./static/imgs/kids1.jpg","title":"Kids Bedroom","des":""},
+        {"img":"./static/imgs/kids2.jpg","title":"Kids Bedroom","des":""},
+        {"img":"./static/imgs/kids3.jpg","title":"Kids Bedroom","des":""},
+        {"img":"./static/imgs/kids4.jpg","title":"Kids Bedroom","des":""}
+    ],
+    "lecture":[
+        {"img":"./static/imgs/lecture1.jpg","title":"Lecture Hall","des":""},
+        {"img":"./static/imgs/lecture2.jpg","title":"Lecture Hall","des":""},
+        {"img":"./static/imgs/lecture3.jpg","title":"Lecture Hall","des":""},
+        {"img":"./static/imgs/lecture4.jpg","title":"Lecture Hall","des":""}
+    ],
+    "luxury":[
+        {"img":"./static/imgs/luxury1.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./static/imgs/luxury2.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./static/imgs/luxury3.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./static/imgs/luxury4.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./static/imgs/luxury5.jpg","title":"Luxury Bedroom","des":""}
+    ],
+    "restaurant":[
+        {"img":"./static/imgs/restaurant1.jpg","title":"Italian Restaurant","des":""},
+        {"img":"./static/imgs/restaurant2.jpg","title":"Italian Restaurant","des":""},
+        {"img":"./static/imgs/restaurant3.jpg","title":"Italian Restaurant","des":""},
+        {"img":"./static/imgs/restaurant4.jpg","title":"Italian Restaurant","des":""}
+    ],
+    "russian":[
+        {"img":"./static/imgs/russian1.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./static/imgs/russian2.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./static/imgs/russian3.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./static/imgs/russian4.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./static/imgs/russian5.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./static/imgs/russian6.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./static/imgs/russian7.jpg","title":"Russian Livingroom","des":""}
+    ],
+    "seat":[
+        {"img":"./static/imgs/seat.jpg","title":"Garden Seat","des":""}
+    ],
+    "sofra":[
+        {"img":"./static/imgs/sofra.jpg","title":"Classic Diningroom","des":""}
+
+    ]
+}

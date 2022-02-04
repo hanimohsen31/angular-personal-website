@@ -2,6 +2,7 @@ import { PortfolioCard } from "../PortfolioCard";
 import "./Portfolio.css";
 
 export const Portfolio = (props) => {
+  console.log(props)
   return (
     <>
       <div className="Portfolio container" id="Portfolio">
@@ -12,58 +13,41 @@ export const Portfolio = (props) => {
           the results that satisfied them very much in return for this trust.
         </p>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-4">
+
           <PortfolioCard
-            link="https://www.behance.net/gallery/136097157/Dark-Bedroom"
-            img={props.img1}
-            title="Luxury Bedroom"
+            link={'luxury'}
+            img={props.data.luxury[0].img}
+            title={props.data.luxury[0].title}
             desc=""
           />
           <PortfolioCard
-            link=""
-            img={props.img2}
-            title="Luxury Bathroom"
+            link={'bath'}
+            img={props.data.bath[0].img}
+            title={props.data.bath[0].title}
             desc=""
           />
           <PortfolioCard
-            link="https://www.behance.net/gallery/88207515/Arabic-Islamic-Majlis"
-            img={props.img3}
-            title="Arabic Majlis"
+            link={'arabic'}
+            img={props.data.arabic[0].img}
+            title={props.data.arabic[0].title}
             desc=""
           />
           <PortfolioCard
-            link="https://www.behance.net/gallery/112532135/Lecture-Hall"
-            img={props.img4}
-            title="Lecture Hall"
+            link={'lecture'}
+            img={props.data.lecture[0].img}
+            title={props.data.lecture[0].title}
             desc=""
           />
           <PortfolioCard
-            link="https://www.behance.net/gallery/123726847/Russian-Apartment"
-            img={props.img5}
-            title="Russian Appartment"
+            link={'russian'}
+            img={props.data.russian[0].img}
+            title={props.data.russian[0].title}
             desc=""
           />
           <PortfolioCard
-            link=""
-            img={props.img6}
-            title="Dressing Room"
-            desc=""
-          />
-          <PortfolioCard
-            link="https://www.behance.net/gallery/94942379/Girl-Bedroom-Scandinavian"
-            img={props.img7}
-            title="Girly Bedroom"
-            desc=""
-          />
-          <PortfolioCard
-            link="https://www.behance.net/gallery/90503319/Dining-Table"
-            img={props.img8}
-            title="Classic Dining Room"
-            desc=""
-          />
-          <PortfolioCard
-            link="https://www.behance.net/gallery/125731313/Russian-Apartment-P2"
-            img={props.img9}
-            title="Kids Bedroom"
+            link={'luxury'}
+            img={props.data.luxury[0].img}
+            title={props.data.luxury[0].title}
             desc=""
           />
         </div>
