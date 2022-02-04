@@ -45,8 +45,8 @@ export const Portfolio = (props) => {
             desc=""
           />
           <PortfolioCard
-            link={'luxury'}
-            img={props.data.luxury[0].img}
+            link={'kitchen'}
+            img={props.data.kitchen[0].img}
             title={props.data.luxury[0].title}
             desc=""
           />

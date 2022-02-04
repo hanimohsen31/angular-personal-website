@@ -39,17 +39,23 @@ https://collection-interiors.herokuapp.com/
 1- Main Page 
 ![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s1.jpg)
 
-2- ChatBot 
+2- Portfolio
+![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s6.jpg)
+
+3- Privew Project
+![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s7.jpg)
+
+4- ChatBot 
 
 ![ChatBot page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s2.jpg)
 
 
-3- Form 
+5- Form 
 
 ![Form page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s3.jpg)
 
 
-4- Form Submission 
+6- Form Submission 
 
 ![Submission page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s4.jpg)
 

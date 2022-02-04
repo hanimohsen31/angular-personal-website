@@ -23,7 +23,7 @@ export const PortfolioPage = (props) => {
           </p>
           <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-4">
             <PortfolioCard
-              link={"lxury"}
+              link={"luxury"}
               img={props.data.luxury[0].img}
               title={props.data.luxury[0].title}
               desc=""
