@@ -51,10 +51,10 @@ https://collection-interiors.herokuapp.com/
 
 4- Form Submission 
 
-![Submission page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s5.jpg)
+![Submission page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s4.jpg)
 
 
 5- Form Received on Email
 
-![Received page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s6.jpg)
+![Received page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s5.jpg)
 
