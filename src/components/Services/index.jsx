@@ -12,7 +12,7 @@ export const Services = (props) => {
     <>
       <div className="Services container">
         <h1>A few things We are Great At</h1>
-        <p className="ServicesDes">
+        <p className="ServicesDes col-10 col-lg-8">
           You may ask why us ? Ok , it's Simple as you can preview all of our on
           Here , on&#160;
           <a

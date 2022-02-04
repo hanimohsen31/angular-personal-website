@@ -9,9 +9,11 @@ import { ContactPage } from "./pages/ContactPage.jsx";
 function App() {
   return (
     <Switch>
+
       <Route path="/home">
         <Home data={dataBase} />
       </Route>
+
       <Route path="/portfolio">
         <PortfolioPage data={dataBase} />
       </Route>
@@ -27,9 +29,11 @@ function App() {
       <Route path="/arabic">
         <Preview data={dataBase.arabic} />
       </Route>
+
       <Route path="/bath">
         <Preview data={dataBase.bath} />
       </Route>
+      
       <Route path="/girl">
         <Preview data={dataBase.girl} />
       </Route>
@@ -62,11 +66,11 @@ function App() {
         <Preview data={dataBase.sofra} />
       </Route>
 
-
       <Route path="/">
         <Home data={dataBase} />
       </Route>
     </Switch>
+
   );
 }
 

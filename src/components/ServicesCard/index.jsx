@@ -16,7 +16,7 @@ const showBot = () => {
             <p class="card-text">{props.desc}</p>
           </div>
 
-          <button onClick={showBot} className="PortfolioBtn btn btn-light ">More Info</button>
+          <button onClick={showBot} className="PortfolioBtn btn btn-outline-danger ">More Info</button>
         </div>
 
       </div>

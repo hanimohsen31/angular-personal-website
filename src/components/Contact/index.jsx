@@ -66,7 +66,7 @@ export const Contact = () => {
             />
           </div>
 
-          <button type="submit" class="btn btn-primary">
+          <button type="submit" class="btn btn-danger">
             Submit
           </button>
         </form>

@@ -9,11 +9,11 @@ export const ContactPage = () => {
         <h1 className="text-center" style={{'margin':'100px auto 30px'}}>This is our Contacts</h1>
         <h4 className="text-center" >Feel free to get in touch with us anytime</h4>
         <div className="text-center" >
-            <h4>Facebook : <a href="https://www.facebook.com/Collection2050" rel="noreferrer" target='_blank'> Collection </a></h4>
-            <h4>Behance : <a href="https://www.behance.net/hanimohsen3810" rel="noreferrer" target='_blank'> Behance Gallary </a></h4>
+            <h4 className="my-2" >Facebook : <a href="https://www.facebook.com/Collection2050" rel="noreferrer" target='_blank'> Collection </a></h4>
+            <h4 className="my-2" >Behance : <a href="https://www.behance.net/hanimohsen3810" rel="noreferrer" target='_blank'> Behance Gallary </a></h4>
 
         </div>
-        <h3 className="text-center" >Yoy can also send us your opinions through this form</h3>
+        <h3 className="text-center my-2" >You can also send us your opinions through this form</h3>
         <Contact/>
         <Footer/>
         </>
