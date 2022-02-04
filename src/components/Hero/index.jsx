@@ -2,10 +2,10 @@ import './Hero.css'
 // import heroImg from "./../../static/img/p4.jpg"
 
 export const Hero = (props) => {
-    console.log("props Hero")
-    console.log(props)
+    // console.log("props Hero")
+    // console.log(props)
     const img = props.img
-    console.log(img)
+    // console.log(img)
 
     return (
         <>

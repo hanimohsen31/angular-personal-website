@@ -2,8 +2,8 @@ import { ServicesCard } from "../ServicesCard";
 import "./Services.css";
 
 export const Services = (props) => {
-  console.log("props Services");
-  console.log(props);
+  // console.log("props Services");
+  // console.log(props);
   const desc1 =
     "القيام بالاعمال الابداعية فى التصميم الداخلي بما يتناسب مع احتاجاتك و ذوقك الخاص";
   const desc2 =

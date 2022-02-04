@@ -2,8 +2,8 @@ import { Hero } from "../Hero"
 import { Navbar } from "../Navbar"
 
 export const Header = (props) => {
-    console.log('props Header')
-    console.log(props)
+    // console.log('props Header')
+    // console.log(props)
 
     return (
         <>
