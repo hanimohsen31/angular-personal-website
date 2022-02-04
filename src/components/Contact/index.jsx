@@ -21,7 +21,7 @@ export const Contact = () => {
   }
   return (
     <>
-      <div className="Contact container col-11 col-md-8 col-lg-6">
+      <div className="Contact container col-11 col-md-8 col-lg-6 wow fadeInDown">
         <form onSubmit={sendEmail}>
           <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">

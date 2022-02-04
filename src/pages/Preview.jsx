@@ -9,17 +9,17 @@ export const Preview = (props) => {
   return (
     <>
       <Navbar classAttr={"bg-dark"} />
-      <h1 className="text-center" style={{'margin':'100px auto 30px'}}>{data[0].title}</h1>
+      <h1 className="text-center wow fadeInDown" style={{'margin':'100px auto 30px'}}>{data[0].title}</h1>
       {data.map((p) => (
         // console.log(p)
         <div className="text-center">
-          <img src={p.img} className="m-3 text-center" style={{'width':'70%'}} alt={'missing'}/>
+          <img src={p.img} className="m-3 text-center wow fadeInDown" style={{'width':'70%'}} alt={'missing'}/>
         </div>
       ))}
       <ChatbotComp />
       <div className="text-center m-3">
 
-      <button className="btn btn-danger" onClick={() => history.goBack()}>Go Back</button>
+      <button className="btn btn-danger wow fadeInDown" onClick={() => history.goBack()}>Go Back</button>
       </div>
       <Footer />
     </>

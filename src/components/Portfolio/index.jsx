@@ -6,8 +6,8 @@ export const Portfolio = (props) => {
   return (
     <>
       <div className="Portfolio container" id="Portfolio">
-        <h1>Portfolio</h1>
-        <p className="PortfolioDes">
+        <h1 className="wow fadeInDown">Portfolio</h1>
+        <p className="PortfolioDes wow fadeInDown">
           Here you can see some of our creative work for some of the projects
           that we have worked on with different clients who trusted us and got
           the results that satisfied them very much in return for this trust.

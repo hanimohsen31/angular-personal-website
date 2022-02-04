@@ -12,8 +12,8 @@ const showBot = () => {
         <div class="card text-center">
           <img src={props.img} class="card-img-top" alt="..." />
           <div class="card-body">
-            <h5 class="card-title">{props.title}</h5>
-            <p class="card-text">{props.desc}</p>
+            <h5 class="card-title wow fadeInUp">{props.title}</h5>
+            <p class="card-text wow fadeInUp">{props.desc}</p>
           </div>
 
           <button onClick={showBot} className="PortfolioBtn btn btn-outline-danger ">More Info</button>

@@ -5,7 +5,7 @@ export const Content1 = (props) => {
     <>
       <div className="Content1 container">
         <div className="row">
-          <div className="col1 col-12 col-lg-6">
+          <div className="col1 col-12 col-lg-6 wow fadeInLeft" data-wow-duration="2s">
             <h4>About us</h4>
             <div className="content1pre">
               <p className="h3">Enjoy the best</p>
@@ -24,7 +24,7 @@ export const Content1 = (props) => {
             </p>
           </div>
 
-          <div className="col2 col-12 col-lg-5">
+          <div className="col2 col-12 col-lg-5 wow fadeInRight">
             <img src={props.img} alt="conetnt1" />
           </div>
         </div>

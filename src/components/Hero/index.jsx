@@ -7,11 +7,11 @@ export const Hero = (props) => {
             <div className='hero'>
                 <div className='heroImgContain'><img className='heroImg' src={img} alt='img' /></div>
                 <div className='heroContent'>
-                    <div className="heroText">
+                    <div className="heroText wow fadeInUp">
                         <h1>Create Your Own Dream Design ...</h1>
                         <h6>Start Making your dream come true today</h6>
                     </div>
-                    <div className='heroButtons'>
+                    <div className='heroButtons wow fadeInUp'>
                         <a href='/portfolio' rel="noreferrer">
                             <button className='btn btn-danger rounded-pill'>Show Portfolio</button>
                         </a>

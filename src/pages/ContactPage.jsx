@@ -6,6 +6,8 @@ export const ContactPage = () => {
     return (
         <>
         <Navbar classAttr={"bg-dark"}/>
+        <div className="wow fadeInUp">
+
         <h1 className="text-center" style={{'margin':'100px auto 30px'}}>This is our Contacts</h1>
         <h4 className="text-center" >Feel free to get in touch with us anytime</h4>
         <div className="text-center" >
@@ -13,7 +15,8 @@ export const ContactPage = () => {
             <h4 className="my-2" >Behance : <a href="https://www.behance.net/hanimohsen3810" rel="noreferrer" target='_blank'> Behance Gallary </a></h4>
 
         </div>
-        <h3 className="text-center my-2" >You can also send us your opinions through this form</h3>
+        </div>
+        <h3 className="text-center my-2 wow fadeInUp" >You can also send us your opinions through this form</h3>
         <Contact/>
         <Footer/>
         </>

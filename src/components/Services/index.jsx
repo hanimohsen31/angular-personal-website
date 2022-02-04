@@ -11,8 +11,8 @@ export const Services = (props) => {
   return (
     <>
       <div className="Services container">
-        <h1>A few things We are Great At</h1>
-        <p className="ServicesDes col-10 col-lg-8">
+        <h1 className=" wow fadeInDown" data-wow-duration="0.2s">A few things We are Great At</h1>
+        <p className="ServicesDes col-10 col-lg-8  wow fadeInDown ">
           You may ask why us ? Ok , it's Simple as you can preview all of our on
           Here , on&#160;
           <a
@@ -30,7 +30,7 @@ export const Services = (props) => {
           >
             Behance
           </a>
-          , Or On Our page on{" "}
+          , Or On Our page on
           <a
             href="https://www.facebook.com/Collection2050"
             rel="noreferrer"

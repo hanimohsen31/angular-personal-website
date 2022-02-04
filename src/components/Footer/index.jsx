@@ -7,7 +7,7 @@ import { AiOutlineWhatsApp } from "react-icons/ai";
 export const Footer = () => {
   return (
     <>
-      <div className="Footer container text-center">
+      <div className="Footer container text-center wow fadeInDown">
         <h6>
           All Copywrites are reserved for Hani Mohsen , Khaled Rashed and
           Collection Co. 2022
