@@ -43,7 +43,7 @@ https://collection-interiors.herokuapp.com/
 ![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s6.jpg)
 
 3- Privew Project
-![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s7.jpg)
+![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s9.jpg)
 
 4- ChatBot 
 
