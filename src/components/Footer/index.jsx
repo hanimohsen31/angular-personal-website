@@ -42,7 +42,7 @@ export const Footer = () => {
           </a>
         </div>
       </div>
-      <br/>
+      <br />
     </>
   );
 };
