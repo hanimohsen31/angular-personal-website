@@ -36,14 +36,21 @@ You can View and have a full experience to the website from this link
 https://collection-interiors.herokuapp.com/
 
 ## SecrenShots
+
 1- Main Page 
+
 ![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s1.jpg)
 
+
 2- Portfolio
+
 ![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s6.jpg)
 
+
 3- Privew Project
+
 ![Main page Image](https://github.com/hanimohsen31/Personal-WebSite/blob/main/src/static/readme/s9.jpg)
+
 
 4- ChatBot 
 
