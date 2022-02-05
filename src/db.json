@@ -1,65 +1,63 @@
 {
     "arabic":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/arabic1.jpg?alt=media&token=8361fc21-c1a7-45e7-89a3-c1b7894f1063","title":"Arabic Majlis","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/arabic2.jpg?alt=media&token=a837a9e9-80ec-4859-9f58-daaca524269c","title":"Arabic Majlis","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/arabic3.jpg?alt=media&token=59e56674-f745-48b1-8cfc-cef33c8db3a8","title":"Arabic Majlis","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/arabic4.jpg?alt=media&token=5d3b031c-737f-4323-9ab2-f67ca6642bef","title":"Arabic Majlis","des":""}
+        {"img":"./imgs/arabic1.jpg","title":"Arabic Majlis","des":""},
+        {"img":"./imgs/arabic2.jpg","title":"Arabic Majlis","des":""},
+        {"img":"./imgs/arabic3.jpg","title":"Arabic Majlis","des":""},
+        {"img":"./imgs/arabic4.jpg","title":"Arabic Majlis","des":""}
     ],
     "bath":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/bath.jpg?alt=media&token=73c55bf0-9f10-4d00-8cca-237cfb80977f","title":"Bathroom Design","des":""}
-
+        {"img":"./imgs/bath.jpg","title":"Bathroom Design","des":""}
     ],
     "girl":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/girl1.jpg?alt=media&token=1509a3f2-0af2-4f65-b55c-6e13ff73deae","title":"Girly Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/girl2.jpg?alt=media&token=82d2991f-c2a1-42aa-afad-13ade9ab8b1d","title":"Girly Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/girl3.jpg?alt=media&token=7b8181da-6f33-4ca0-af14-1bead7502cfd","title":"Girly Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/girl4.jpg?alt=media&token=4cdf8608-e473-41f3-a700-380b0847e281","title":"Girly Bedroom","des":""}
+        {"img":"./imgs/girl1.jpg","title":"Girly Bedroom","des":""},
+        {"img":"./imgs/girl2.jpg","title":"Girly Bedroom","des":""},
+        {"img":"./imgs/girl3.jpg","title":"Girly Bedroom","des":""},
+        {"img":"./imgs/girl4.jpg","title":"Girly Bedroom","des":""}
     ],
     "kids":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kids1.jpg?alt=media&token=310951c4-f49c-42fa-abe0-d96f00ae0661","title":"Kids Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kids2.jpg?alt=media&token=1ec318b5-cc03-40f4-bd09-6b6beaa92d8b","title":"Kids Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kids3.jpg?alt=media&token=f036ed5f-3e51-438e-8a68-ca1a59081fc0","title":"Kids Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kids4.jpg?alt=media&token=9f5d0c99-9677-4612-92d6-46eeda7974ae","title":"Kids Bedroom","des":""}
+        {"img":"./imgs/kids1.jpg","title":"Kids Bedroom","des":""},
+        {"img":"./imgs/kids2.jpg","title":"Kids Bedroom","des":""},
+        {"img":"./imgs/kids3.jpg","title":"Kids Bedroom","des":""},
+        {"img":"./imgs/kids4.jpg","title":"Kids Bedroom","des":""}
     ],
     "kitchen":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kitchen1.jpg?alt=media&token=18e236b5-4148-4163-891b-3dfd18305060","title":"Kitchen Design","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kitchen2.jpg?alt=media&token=5b43bccc-ec6c-4a1d-bf59-cbeae4a80b75","title":"Kitchen Design","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/kitchen3.jpg?alt=media&token=8be72fcf-8dad-42e7-9d42-f4edd4ffac98","title":"Kitchen Design","des":""}
+        {"img":"./imgs/kitchen1.jpg","title":"Kitchen Design","des":""},
+        {"img":"./imgs/kitchen2.jpg","title":"Kitchen Design","des":""},
+        {"img":"./imgs/kitchen3.jpg","title":"Kitchen Design","des":""}
     ],
     "lecture":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/lecture1.jpg?alt=media&token=f9cd75a3-83f7-4d98-afe2-83f7d37f879d","title":"Lecture Hall","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/lecture2.jpg?alt=media&token=33bee115-8e10-4a19-b071-23b4b716d5c4","title":"Lecture Hall","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/lecture3.jpg?alt=media&token=9a14aaed-a290-4a3e-8e97-47ce1cb1a7b7","title":"Lecture Hall","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/lecture4.jpg?alt=media&token=f7e8f21f-4233-4edc-bc6d-8d208ca7d1b7","title":"Lecture Hall","des":""}
+        {"img":"./imgs/lecture1.jpg","title":"Lecture Hall","des":""},
+        {"img":"./imgs/lecture2.jpg","title":"Lecture Hall","des":""},
+        {"img":"./imgs/lecture3.jpg","title":"Lecture Hall","des":""},
+        {"img":"./imgs/lecture4.jpg","title":"Lecture Hall","des":""}
     ],
     "luxury":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/luxury1.jpg?alt=media&token=548395aa-3b08-495a-ae59-092bbc53f3c9","title":"Luxury Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/luxury2.jpg?alt=media&token=5e1ba83a-364f-4221-9c3a-6c2bb3d069dc","title":"Luxury Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/luxury3.jpg?alt=media&token=22c222a1-ab9a-4dca-af7b-f63c1b1139b2","title":"Luxury Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/luxury4.jpg?alt=media&token=b1d71354-f6a4-4d6a-bee4-d750b3cbb692","title":"Luxury Bedroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/luxury5.jpg?alt=media&token=1115baa6-24d0-442a-a418-b3a6a85af70a","title":"Luxury Bedroom","des":""}
+        {"img":"./imgs/luxury1.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./imgs/luxury2.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./imgs/luxury3.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./imgs/luxury4.jpg","title":"Luxury Bedroom","des":""},
+        {"img":"./imgs/luxury5.jpg","title":"Luxury Bedroom","des":""}
     ],
-
     "restaurant":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/restaurant1.jpg?alt=media&token=09a923b6-f267-479b-8ec7-8de37759d89a","title":"Italian Restaurant","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/restaurant2.jpg?alt=media&token=7b5da916-2f17-478e-8138-9e8d0b9ac106","title":"Italian Restaurant","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/restaurant3.jpg?alt=media&token=9f48a4bc-4e16-4ba3-b154-49be194cba53","title":"Italian Restaurant","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/restaurant4.jpg?alt=media&token=47266a7c-f4f7-4730-8c8e-52fe07bcc9e5","title":"Italian Restaurant","des":""}
+        {"img":"./imgs/restaurant1.jpg","title":"Italian Restaurant","des":""},
+        {"img":"./imgs/restaurant2.jpg","title":"Italian Restaurant","des":""},
+        {"img":"./imgs/restaurant3.jpg","title":"Italian Restaurant","des":""},
+        {"img":"./imgs/restaurant4.jpg","title":"Italian Restaurant","des":""}
     ],
     "russian":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian1.jpg?alt=media&token=6f4588ef-5fb0-4ae7-94dd-3d2ab4fc0204","title":"Russian Livingroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian2.jpg?alt=media&token=9856028d-0f67-43b9-935a-4ba440bb559f","title":"Russian Livingroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian3.jpg?alt=media&token=211fd352-702d-422e-af33-2e8a07e41fb9","title":"Russian Livingroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian4.jpg?alt=media&token=7ec3262f-ad3a-40af-b09a-fd230b8e3df5","title":"Russian Livingroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian5.jpg?alt=media&token=dde8ef0f-7522-4d56-84b6-4794fa240fff","title":"Russian Livingroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian6.jpg?alt=media&token=f7d84e2b-f3d0-41f2-beea-fbf8f42091cf","title":"Russian Livingroom","des":""},
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/russian7.jpg?alt=media&token=a4ec2458-d51b-4048-9360-29c3ae005c57","title":"Russian Livingroom","des":""}
+        {"img":"./imgs/russian1.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./imgs/russian2.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./imgs/russian3.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./imgs/russian4.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./imgs/russian5.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./imgs/russian6.jpg","title":"Russian Livingroom","des":""},
+        {"img":"./imgs/russian7.jpg","title":"Russian Livingroom","des":""}
     ],
     "seat":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/seat.jpg?alt=media&token=8a42225b-ad08-4d33-8471-f7109736dd4f","title":"Garden Seat","des":""}
+        {"img":"./imgs/seat.jpg","title":"Garden Seat","des":""}
     ],
     "sofra":[
-        {"img":"https://firebasestorage.googleapis.com/v0/b/personal-website-dc26c.appspot.com/o/Sofra.jpg?alt=media&token=25dea3be-94b5-4615-a7db-b1eac97a89cf","title":"Classic Diningroom","des":""}
+        {"img":"./imgs/Sofra.jpg","title":"Classic Diningroom","des":""}
 
     ]
 }

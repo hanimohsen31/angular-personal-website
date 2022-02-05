@@ -2,3 +2,8 @@
     max-height: 230px;
     object-fit: cover;
 }
+
+.PortfolioCard:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}
