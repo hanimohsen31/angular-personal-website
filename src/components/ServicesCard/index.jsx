@@ -16,7 +16,7 @@ const showBot = () => {
             <p class="card-text wow fadeInUp">{props.desc}</p>
           </div>
 
-          <button onClick={showBot} className="PortfolioBtn btn btn-outline-danger ">More Info</button>
+          <button onClick={showBot} className="PortfolioBtn btn btn-outline-dark ">More Info</button>
         </div>
 
       </div>

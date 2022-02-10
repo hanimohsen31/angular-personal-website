@@ -19,22 +19,25 @@ export const Services = (props) => {
             href="https://www.instagram.com/Hanimohsen31/"
             rel="noreferrer"
             target="_blank"
+            style={{'color':'#C13584'}}
           >
             Insta
           </a>
-          ,&#160;
+          , &#160;
           <a
             href="https://www.behance.net/hanimohsen3810"
             rel="noreferrer"
             target="_blank"
+            style={{'color':'#053eff'}}
           >
             Behance
           </a>
-          , Or On Our page on
+          , Or On Our page on&#160;
           <a
             href="https://www.facebook.com/Collection2050"
             rel="noreferrer"
             target="_blank"
+            style={{'color':'#4267B2'}}
           >
             Facebook
           </a>

@@ -3,6 +3,7 @@ nav{
     width: 100%;
     position: absolute;
     top: 0;
+
 }
 
 .navbar {
@@ -20,6 +21,7 @@ nav{
 }
 
 .nav-link{
+    transition: 0.1s;
     margin: auto 10px;
 }
 

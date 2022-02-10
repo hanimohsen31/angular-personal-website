@@ -1,9 +1,12 @@
 .PortfolioCard img {
-    max-height: 230px;
+    height: 230px;
     object-fit: cover;
+}
+
+.PortfolioCard {
+    transition: 0.2s;
 }
 
 .PortfolioCard:hover{
     transform: scale(1.05);
-    transition: 0.2s;
 }

@@ -14,14 +14,14 @@ export const PortfolioPage = (props) => {
 
       {/* end header */}
       <>
-        <div className="Portfolio container" id="Portfolio">
+        <div className="Portfolio container" id="Portfolio" style={{'margin':'80px auto 40px'}}>
           <h1 className="wow fadeInUp">Portfolio</h1>
           <p className="PortfolioDes wow fadeInUp">
             Here you can see some of our creative work for some of the projects
             that we have worked on with different clients who trusted us and got
             the results that satisfied them very much in return for this trust.
           </p>
-          <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-4 wow fadeInDown">
+          <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-2 wow fadeInDown">
             <PortfolioCard
               link={"luxury"}
               img={props.data.luxury[0].img}

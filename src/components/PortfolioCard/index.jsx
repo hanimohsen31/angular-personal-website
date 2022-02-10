@@ -13,7 +13,7 @@ export const PortfolioCard = (props) => {
               <h5 class="card-title">{props.title}</h5>
               <p class="card-text">{props.des}</p>
               <a
-                className="btn btn-outline-danger my-4"
+                className="btn btn-outline-dark"
                 data={props.link}
                 href={'/'+props.link}
               >

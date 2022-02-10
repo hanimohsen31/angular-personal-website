@@ -3,7 +3,7 @@
     text-align: left;
 }
 .ServicesCard img {
-    max-height: 230px;
+    height: 230px;
     object-fit: cover;
 }
 

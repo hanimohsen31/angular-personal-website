@@ -7,7 +7,7 @@ export const Portfolio = (props) => {
     <>
       <div className="Portfolio container" id="Portfolio">
         <h1 className="wow fadeInDown">Portfolio</h1>
-        <p className="PortfolioDes wow fadeInDown">
+        <p className="PortfolioDes col-10 col-lg-8 wow fadeInDown">
           Here you can see some of our creative work for some of the projects
           that we have worked on with different clients who trusted us and got
           the results that satisfied them very much in return for this trust.
@@ -55,7 +55,7 @@ export const Portfolio = (props) => {
           rel="noreferrer"
           href="https://www.behance.net/hanimohsen3810"
           target="_blank"
-          className="PortfolioBtn btn btn-danger"
+          className="PortfolioBtn btn btn-dark"
         >
           View All On Behance
         </a>
