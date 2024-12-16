@@ -1,7 +1,7 @@
 {
   "hosting": {
     "target": "collection-100",
-    "public": "public",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
