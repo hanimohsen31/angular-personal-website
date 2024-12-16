@@ -21,7 +21,7 @@ export const PortfolioPage = (props) => {
             that we have worked on with different clients who trusted us and got
             the results that satisfied them very much in return for this trust.
           </p>
-          <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-2 wow fadeInDown">
+          <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-2 wow fadeInDown">
             <PortfolioCard
               link={"luxury"}
               img={props.data.luxury[0].img}

@@ -7,13 +7,13 @@ const showBot = () => {
   return (
     <>
     <div className="ServicesCard">
-      <div class="col">
+      <div className="col">
 
-        <div class="card text-center">
-          <img src={props.img} class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title wow fadeInUp">{props.title}</h5>
-            <p class="card-text wow fadeInUp">{props.desc}</p>
+        <div className="card text-center">
+          <img src={props.img} className="card-img-top" alt="..." />
+          <div className="card-body">
+            <h5 className="card-title wow fadeInUp">{props.title}</h5>
+            <p className="card-text wow fadeInUp">{props.desc}</p>
           </div>
 
           <button onClick={showBot} className="PortfolioBtn btn btn-outline-dark ">More Info</button>

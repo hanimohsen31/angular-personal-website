@@ -44,7 +44,7 @@ export const Services = (props) => {
           &#160;to make sure you are in the Right Place to make your dreaming
           Design Come Alife.
         </p>
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-4">
+        <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-4">
           <ServicesCard
             img={props.img1}
             title="Interior Design"

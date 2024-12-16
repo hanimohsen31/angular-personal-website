@@ -9,8 +9,7 @@ export const Footer = () => {
     <>
       <div className="Footer container text-center wow fadeInDown">
         <h6>
-          All Copywrites are reserved for Hani Mohsen , Khaled Rashed and
-          Collection Co. 2022
+          All Copywrites are reserved for Hani Mohsen Collection Co. 2022
         </h6>
         <div className="icons">
           <a
